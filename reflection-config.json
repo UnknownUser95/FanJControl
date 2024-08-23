@@ -1,0 +1,18 @@
+[
+	{
+		"name": "net.unknownuser.fanjcontrol.Configuration$ConfigurationDeserializer",
+		"allDeclaredConstructors": true
+	},
+	{
+		"name": "net.unknownuser.fanjcontrol.FanConfiguration$FanConfigurationDeserializer",
+		"allDeclaredConstructors": true
+	},
+	{
+		"name": "net.unknownuser.fanjcontrol.TemperatureConfiguration$TemperatureConfigurationDeserializer",
+		"allDeclaredConstructors": true
+	},
+	{
+		"name": "net.unknownuser.fanjcontrol.PWMConfiguration$PWMConfigurationDeserializer",
+		"allDeclaredConstructors": true
+	}
+]
